@@ -1,3 +1,3 @@
 # apnacollege
 this is my github repo
-author:yashashri shinde
+author:yashashri patil
